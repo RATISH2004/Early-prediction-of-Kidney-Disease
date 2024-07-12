@@ -1,4 +1,4 @@
-This project helps in predicting Chronic Kidney Disease early.
+This project helps in predicting chronic kidney disease early.
 Special Credits to--MayankRaj,
                     Manoj,
                     Abhinav Bansal,
